@@ -1,13 +1,8 @@
 # s21_matrix  
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/vpUwLY2KyV1B1B3o9)
-
-
 Implementation of the matrix.h library.   
 
 The russian version of the task can be found in the repository.
-
 
 ## Contents  
 
@@ -22,24 +17,6 @@ The russian version of the task can be found in the repository.
 # Chapter I  
 
 ![matrix](misc/eng/images/matrixx.png)
-
-Planet Earth, USA, Texas, Dallas County, 1703 Matthew Street, September 13, 2000.  
-
-*-- Our CEO has such a wonderful country house! There is everything to make ideas come true. A veranda facing a huge swimming pool on the lawn complete the image of a keen and intelligent person.*
-
-*- Yes, I agree, so glad we were invited here, this place is very energetic!*  
-
-*-- Absolutely! So, for a few days now, the main id Software tech team has been discussing the new technology we would like to introduce in our upcoming game Doom 3. What creates the most sense of reality in a picture? Of course it's a game of light and shadows, which now takes too long to compute, putting a lot of strain on the CPU. John is known for his technological and algorithmic ideas and tricks, which made it possible to achieve crazy breakthroughs in speed and code optimisation.* \
-*What was I talking about… Our chief technician and founder John Carmack presented a theoretical development that would allow you to cast shadows on a scene after going through the entire graphics pipeline, using a depth and a stencil buffer.* 
-
-*- Oh wow, it gives me goosebumps, tell us more!*
-
-*-- We didn't invite you to this party by chance, the whole team is working on a new method of building shadows on a scene, and John assigned your department specifically to implement a very fast and optimised library of all sorts of matrix transformations, which will underpin all the mathematical logic of the algorithm. Vectors and matrices, transpose and SRT conversions, and many other mathematical objects and operations that are used in computer graphics.* \
-*For a correct and considered transition to the new method, we need a significant and impressive performance changes, and you will be in charge of them!*
-
-*- My team and I are very happy to help you, and ready to get to work as early as tomorrow!*
-
-*-- Perfect! Who knows, maybe one day it will be enough just to cast the rays to build light and shadows … but for now we are limited by the technology of our time and need to roll with the punches, so let’s do it! And yes, don't you dare miss deadlines, he doesn't like that.*
 
 ## Introduction
 
