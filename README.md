@@ -3,7 +3,7 @@
 Implementation of the matrix.h library. Study project.
 
 - The library is developed in C language of C11 standard using gcc compiler
-- The library code is be located in the src folder on the develop branch
+- The library code is located in the src folder on the develop branch
 - The code of the program is written in accordance with Google style 
 - Static library (with the s21_matrix.h header file)
 - The library is developed according to the principles of structured programming
